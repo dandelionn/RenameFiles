@@ -1,0 +1,9 @@
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csprojResolveAssemblyReference.cache
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.Properties.Resources.resources
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csproj.GenerateResource.Cache
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
+c:\users\paul.michea\documents\visual studio 2015\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.MainForm.resources
